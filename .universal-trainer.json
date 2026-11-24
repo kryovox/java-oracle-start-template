@@ -1,0 +1,5 @@
+{
+  "schema": 1,
+  "discipline": "java-oracle",
+  "template": "kryovox/java-oracle-start-template"
+}
