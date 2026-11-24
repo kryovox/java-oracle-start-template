@@ -27,3 +27,7 @@
 | [docs](docs/SETUP.md) | Инструкции |
 
 Тренажёр использует папки `practice/trainer/`, `homework/trainer/`, `exams/trainer/`. Сохраняйте `.universal-trainer.json` в корне. Не публикуйте пароли или токены.
+
+## Обновление материалов
+
+Новые материалы преподавателя поступают ежедневно через GitHub Actions. Ручной запуск и правила сохранения работ — в [UPDATES.md](docs/UPDATES.md). После обновления выполните Pull в IntelliJ IDEA.
